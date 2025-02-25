@@ -8,12 +8,12 @@ applications on top of locked Bitcoin.
 
 This repository contains two main documentation files:
 
-1. **[Application Registration Guide](https://github.com/MotifFinance/docs/blob/main/App-Register.md)** - Documentation for developers looking to build applications on top of Motif, including:
+1. **[Application Registration Guide](https://github.com/MotifFinance/developer-guide/blob/main/App-Register.md)** - Documentation for developers looking to build applications on top of Motif, including:
    - Setting up a development environment
    - Registering applications with Motif
    - Managing application metadata
 
-2. **[Deposit & Withdrawal Guide](https://github.com/MotifFinance/docs/blob/main/Deposit-Wthdraw-Btc-Developer-guide.md)** - A comprehensive guide explaining how to:
+2. **[Deposit & Withdrawal Guide](https://github.com/MotifFinance/developer-guide/blob/main/Deposit-Wthdraw-Btc-Developer-guide.md)** - A comprehensive guide explaining how to:
    - Create a Bitcoin Pod
    - Deposit Bitcoin using multisig addresses
    - Verify deposits through operators
